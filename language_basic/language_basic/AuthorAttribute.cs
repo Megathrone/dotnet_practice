@@ -51,9 +51,9 @@ namespace language_basic
             }
         }
 
-        public static void Main()
-        {
-            test();
-        }
+        // public static void Main()
+        // {
+        //     test();
+        // }
     }
 }
